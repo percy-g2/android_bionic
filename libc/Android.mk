@@ -206,6 +206,7 @@ libc_bionic_src_files := \
     bionic/brk.cpp \
     bionic/dirent.cpp \
     bionic/__errno.c \
+    bionic/epoll_create.cpp \
     bionic/eventfd_read.cpp \
     bionic/eventfd_write.cpp \
     bionic/futimens.cpp \
